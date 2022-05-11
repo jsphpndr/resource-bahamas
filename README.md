@@ -6,41 +6,41 @@ Watch this space.
 
 ## UX/UI
 
-### Frontend
+## Frontend
 
-#### HTML
+### HTML
 
-#### CSS
+### CSS
 
-##### SASS/SCSS
+#### SASS/SCSS
 
-##### Bootstrap
+#### Bootstrap
 
-##### Tailwind
+#### Tailwind
 
 
-#### JS
+### JS
 
-##### TypeScript
+#### TypeScript
 
-##### React/Next.js
+#### React/Next.js
 
-##### Vue/Nuxt.js
+#### Vue/Nuxt.js
 
-##### Angular
+#### Angular
 
-##### Svelte
+#### Svelte
 
-### Backend
+## Backend
 
-#### PHP
+### PHP
 
-##### Laravel
+#### Laravel
 
-##### Statamic
+#### Statamic
 
-##### Kirby CMS
+#### Kirby CMS
 
-#### JS
+### JS
 
-##### Node.js
+#### Node.js
