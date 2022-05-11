@@ -10,10 +10,17 @@ Watch this space.
 
 ### HTML
 
+<!-- Preprocessors -->
+### PUG
+
+### HAML
+
 ### CSS
 
+<!-- Preprocessors -->
 #### SASS/SCSS
 
+<!-- Frameworks -->
 #### Bootstrap
 
 #### Tailwind
@@ -21,8 +28,10 @@ Watch this space.
 
 ### JS
 
+<!-- Preprocessors -->
 #### TypeScript
 
+<!-- Frameworks -->
 #### React/Next.js
 
 #### Vue/Nuxt.js
@@ -35,12 +44,15 @@ Watch this space.
 
 ### PHP
 
+<!-- Frameworks -->
 #### Laravel
 
+<!-- CMS -->
 #### Statamic
 
 #### Kirby CMS
 
 ### JS
 
+<!-- Frameworks -->
 #### Node.js
