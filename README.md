@@ -96,7 +96,8 @@ __Table of Contents__
 ### In The Industry
 * [Shop Talk Show](https://shoptalkshow.com) - A Tasty Treats Podcast for Web Developers.
 * [Syntax](https://syntax.fm) - A weekly podcast about just building websites from Dave Rupert and Chris Coyier.
-
+* [a16z Podcast](https://a16z.simplecast.com/) - The a16z Podcast discusses tech and culture trends, news, and the future – especially as ‘software eats the world’.
+* [Software Engineering Daily](https://softwareengineeringdaily.com/) - Technical interviews about software topics.
 ### Developer Stories
 * [CodeNewbie](https://www.codenewbie.org/podcast) - Stories from people on their coding journey
 
