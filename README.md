@@ -8,6 +8,7 @@ __Table of Contents__
 - [Backend](#backend)
 - [Business](#business)
 - [Grants](#grants)
+- [Technology Communities and/or NGOs](#technology-communities-andor-ngos)
 - [Podcasts](#podcasts)
 
 ## UX/UI
