@@ -93,3 +93,6 @@ __Table of Contents__
 
 ### Developer Stories
 * [CodeNewbie](https://www.codenewbie.org/podcast) - Stories from people on their coding journey
+
+## Web Hosting
+#### [Vercel](https://vercel.com/)
