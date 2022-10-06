@@ -91,6 +91,7 @@ __Table of Contents__
 #### [Women in Tech Caribbean](http://womenintechcaribbean.com)
 #### [FEMStem Bahamas](https://www.femstembahamas.org/)
 #### [BETA](http://wearebeta.co/)
+#### [Bytes Bahamas](https://www.facebook.com/bytes242/)
 
 ## Podcasts
 ### In The Industry
