@@ -2,7 +2,14 @@
 
 Watch this space.
 
-
+__Table of Contents__
+- [UX/UI](#uxui)
+- [Frontend](#frontend)
+- [Backend](#backend)
+- [Business](#business)
+- [Grants](#grants)
+- [Technology Communities and/or NGOs](#technology-communities-andor-ngos)
+- [Podcasts](#podcasts)
 
 ## UX/UI
 
@@ -78,3 +85,11 @@ Watch this space.
 #### [Women in Tech Caribbean](http://womenintechcaribbean.com)
 #### [FEMStem Bahamas](https://www.femstembahamas.org/)
 #### [BETA](http://wearebeta.co/)
+
+## Podcasts
+### In The Industry
+* [Shop Talk Show](https://shoptalkshow.com) - A Tasty Treats Podcast for Web Developers.
+* [Syntax](https://syntax.fm) - A weekly podcast about just building websites from Dave Rupert and Chris Coyier.
+
+### Developer Stories
+* [CodeNewbie](https://www.codenewbie.org/podcast) - Stories from people on their coding journey
