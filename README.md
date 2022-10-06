@@ -78,3 +78,11 @@ Watch this space.
 #### [Women in Tech Caribbean](http://womenintechcaribbean.com)
 #### [FEMStem Bahamas](https://www.femstembahamas.org/)
 #### [BETA](http://wearebeta.co/)
+
+## Podcasts
+### In The Industry
+* [Shop Talk Show](https://shoptalkshow.com) - A Tasty Treats Podcast for Web Developers.
+* [Syntax](https://syntax.fm) - A weekly podcast about just building websites from Dave Rupert and Chris Coyier.
+
+### Developer Stories
+* [CodeNewbie](https://www.codenewbie.org/podcast) - Stories from people on their coding journey
