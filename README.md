@@ -65,9 +65,16 @@ Watch this space.
 ## Grants
 
 ### Local Grants
-[Access Accelerator ](https://www.accessaccelerator.org/)
-[Over the Hill Foundation](https://www.overthehillfoundation.org/fast-facts)
+#### [Access Accelerator ](https://www.accessaccelerator.org/)
+#### [Over the Hill Foundation](https://www.overthehillfoundation.org/fast-facts)
 
 ### Regional Grants
 
 ### International Grants
+
+## Technology Communities and/or NGOs
+
+#### [Bahamian Developers Association](https://www.facebook.com/bahadevsassociation)
+#### [Women in Tech Caribbean](http://womenintechcaribbean.com)
+#### [FEMStem Bahamas](https://www.femstembahamas.org/)
+#### [BETA](http://wearebeta.co/)
