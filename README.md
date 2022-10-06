@@ -130,7 +130,10 @@ __Table of Contents__
 #### [Vercel](https://vercel.com/)
 
 ## Practice Makes Perfect
-* [freeCodeCamp](https://www.freecodecamp.com/) - Learn to code and build projects
-* [GeeksforGeeks](https://practice.geeksforgeeks.org/) - Well explained tutorials, articles, and learn to code
-* [Udemy](https://www.udemy.com/) - Video tutorials by professionals
-* [GoDaddy](https://www.godaddy.com/hosting/web-hosting) - GoDaddy is the world’s largest services platform for entrepreneurs around the globe.
+
+#### [freeCodeCamp](https://www.freecodecamp.com/) - Learn to code and build projects
+
+#### [GeeksforGeeks](https://practice.geeksforgeeks.org/) - Well explained tutorials, articles, and learn to code
+
+#### [Udemy](https://www.udemy.com/) - Video tutorials by professionals
+#### [GoDaddy](https://www.godaddy.com/hosting/web-hosting) - GoDaddy is the world’s largest services platform for entrepreneurs around the globe.
