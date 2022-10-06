@@ -86,7 +86,6 @@ __Table of Contents__
 #### [FEMStem Bahamas](https://www.femstembahamas.org/)
 #### [BETA](http://wearebeta.co/)
 
-=======
 ## Podcasts
 ### In The Industry
 * [Shop Talk Show](https://shoptalkshow.com) - A Tasty Treats Podcast for Web Developers.
@@ -94,7 +93,6 @@ __Table of Contents__
 
 ### Developer Stories
 * [CodeNewbie](https://www.codenewbie.org/podcast) - Stories from people on their coding journey
->>>>>>> 0fc1fe5506ebca9457ace2320d36fec9b921ea3b
 
 ## Web Hosting
 #### [Vercel](https://vercel.com/)
