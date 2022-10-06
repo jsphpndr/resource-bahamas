@@ -78,3 +78,6 @@ Watch this space.
 #### [Women in Tech Caribbean](http://womenintechcaribbean.com)
 #### [FEMStem Bahamas](https://www.femstembahamas.org/)
 #### [BETA](http://wearebeta.co/)
+
+## Web Hosting
+#### [Vercel](https://vercel.com/)
