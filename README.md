@@ -73,7 +73,7 @@ __Table of Contents__
 ## Business
 
 ### Startups
-#### [Stats For Startups](https://statsforstartups.com/)
+* [Stats For Startups](https://statsforstartups.com/) - A research project that seeks to illuminate and mitigate bias in early-stage financing.
 
 ## Grants
 
