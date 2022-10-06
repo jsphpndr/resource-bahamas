@@ -98,7 +98,7 @@ __Table of Contents__
 #### [Women in Tech Caribbean](http://womenintechcaribbean.com)
 #### [FEMStem Bahamas](https://www.femstembahamas.org/)
 #### [BETA](http://wearebeta.co/)
-#### [Bytes Bahamas](https://www.facebook.com/bytes242/)
+#### [Bytes Bahamas](https://www.facebook.com/bytes242/) - Our mission is to identify students with an aptitude for computer science, math, engineering and community in small Bahamian communities.
 
 ## Podcasts
 ### In The Industry
@@ -119,3 +119,4 @@ __Table of Contents__
 #### [GeeksforGeeks](https://practice.geeksforgeeks.org/) - Well explained tutorials, articles, and learn to code
 
 #### [Udemy](https://www.udemy.com/) - Video tutorials by professionals
+#### [GoDaddy](https://www.godaddy.com/hosting/web-hosting) - GoDaddy is the world’s largest services platform for entrepreneurs around the globe.
