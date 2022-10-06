@@ -2,7 +2,13 @@
 
 Watch this space.
 
-
+__Table of Contents__
+- [UX/UI](#uxui)
+- [Frontend](#frontend)
+- [Backend](#backend)
+- [Business](#business)
+- [Grants](#grants)
+- [Podcasts](#podcasts)
 
 ## UX/UI
 
