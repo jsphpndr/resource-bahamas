@@ -10,8 +10,11 @@ __Table of Contents__
 - [Grants](#grants)
 - [Technology Communities and/or NGOs](#technology-communities-andor-ngos)
 - [Podcasts](#podcasts)
+- [Web Hosting](#web-hosting)
 
 ## UX/UI
+
+#### [Figma](https://www.figma.com/) - A collaborative UX/UI Design tool
 
 ## Frontend
 
