@@ -17,6 +17,10 @@ __Table of Contents__
 
 #### [Figma](https://www.figma.com/) - A collaborative UX/UI Design tool
 
+#### [Adobe XD](https://www.adobe.com/products/xd.html) - A Design tool for web and mobile development
+
+#### [Canva](https://www.canva.com/) - Beginner friendly graphic design tool 
+
 ## Frontend
 
 ### HTML
