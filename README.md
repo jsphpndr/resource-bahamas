@@ -12,7 +12,6 @@ __Table of Contents__
 - [Technology Communities and/or NGOs](#technology-communities-andor-ngos)
 - [Podcasts](#podcasts)
 - [Web Hosting](#web-hosting)
-- [Web Hosting](#web-hosting)
 
 ## UX/UI
 
