@@ -18,7 +18,7 @@ __Table of Contents__
 
 #### [Adobe XD](https://www.adobe.com/products/xd.html) - A Design tool for web and mobile development
 
-#### [Canva](https://www.canva.com/) - Beginner friendly graphic design tool
+#### [Canva](https://www.canva.com/) - Beginner friendly graphic design tool 
 
 ## Frontend
 
