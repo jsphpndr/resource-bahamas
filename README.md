@@ -6,6 +6,7 @@ __Table of Contents__
 - [UX/UI](#uxui)
 - [Frontend](#frontend)
 - [Backend](#backend)
+- [Data Structures & Algorithms](#data-structures-&-algorithms)
 - [Business](#business)
 - [Grants](#grants)
 - [Technology Communities and/or NGOs](#technology-communities-andor-ngos)
@@ -66,6 +67,11 @@ __Table of Contents__
 
 <!-- Frameworks -->
 #### Node.js
+
+## Data Structures & Algorithms
+* [LeetCode](https://leetcode.com/) - LeetCode is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews.
+* [structy](https://structy.net/) - Structy is a platform designed to maximize your understanding of data structure & algorithms.
+* [AlgoExpert](https://www.algoexpert.io/product) - The ultimate resource to prepare for coding interviews. Everything you need, in one streamlined platform.
 
 ## Business
 
