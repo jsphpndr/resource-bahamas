@@ -10,6 +10,7 @@ __Table of Contents__
 - [Grants](#grants)
 - [Technology Communities and/or NGOs](#technology-communities-andor-ngos)
 - [Podcasts](#podcasts)
+- [Web Hosting](#web-hosting)
 
 ## UX/UI
 
@@ -88,11 +89,11 @@ __Table of Contents__
 
 ## Podcasts
 ### In The Industry
-* [Shop Talk Show](https://shoptalkshow.com) - A Tasty Treats Podcast for Web Developers.
-* [Syntax](https://syntax.fm) - A weekly podcast about just building websites from Dave Rupert and Chris Coyier.
+* [Shop Talk Show](https://shoptalkshow.com) - A weekly podcast about just building websites from Dave Rupert and Chris Coyier.
+* [Syntax](https://syntax.fm) - A Tasty Treats Podcast for Web Developers.
 
 ### Developer Stories
-* [CodeNewbie](https://www.codenewbie.org/podcast) - Stories from people on their coding journey
+* [CodeNewbie](https://www.codenewbie.org/podcast) - Stories from people on their coding journey.
 
 ## Web Hosting
 #### [Vercel](https://vercel.com/)
