@@ -14,6 +14,8 @@ __Table of Contents__
 
 ## UX/UI
 
+#### [Figma](https://www.figma.com/) - A collaborative UX/UI Design tool
+
 ## Frontend
 
 ### HTML
