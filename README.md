@@ -111,3 +111,11 @@ __Table of Contents__
 
 ## Web Hosting
 #### [Vercel](https://vercel.com/)
+
+## Practice Makes Perfect
+
+#### [freeCodeCamp](https://www.freecodecamp.com/) - Learn to code and build projects
+
+#### [GeeksforGeeks](https://practice.geeksforgeeks.org/) - Well explained tutorials, articles, and learn to code
+
+#### [Udemy](https://www.udemy.com/) - Video tutorials by professionals
