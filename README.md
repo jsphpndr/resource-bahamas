@@ -13,7 +13,9 @@ __Table of Contents__
 - [Podcasts](#podcasts)
 
 ## UX/UI
-
+### Design Ideas
+* [dribbble](https://dribbble.com/) - Explore the world’s leading design portfolios.
+* [Behance](https://www.behance.net/) - Behance is the world's largest creative network for showcasing and discovering creative work.
 ## Frontend
 
 ### HTML
