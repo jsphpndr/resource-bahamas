@@ -111,11 +111,13 @@ __Table of Contents__
 
 ## Technology Communities and/or NGOs
 
-#### [Bahamian Developers Association](https://www.facebook.com/bahadevsassociation)
-#### [Women in Tech Caribbean](http://womenintechcaribbean.com)
-#### [FEMStem Bahamas](https://www.femstembahamas.org/)
-#### [BETA](http://wearebeta.co/)
+#### [Bahamian Developers Association](https://www.facebook.com/bahadevsassociation) - This is where local technology professionals, creatives, and entrepreneurs meetup on the third Saturday of every month.
+
+#### [Women in Tech Caribbean](http://womenintechcaribbean.com) - We have an ambitious goal to connect every single Caribbean woman in tech – whether at home or in the diaspora!
+#### [FEMStem Bahamas](https://www.femstembahamas.org/) - We believe in providing high school girls with the fundamentals for self growth and career development- specifically in science, technology, mathematics and engineering (STEM) fields.
+#### [BETA](http://wearebeta.co/) - BETA Camp is a summer engineering camp focused on increase the awareness and exposure of STEM (science, technology, engineering and math) to young Bahamians.
 #### [Bytes Bahamas](https://www.facebook.com/bytes242/) - Our mission is to identify students with an aptitude for computer science, math, engineering and community in small Bahamian communities.
+#### [Blockchain Business School](https://242bbs.com/) - WE COMMUNITY CALLED TO ACTION TO HARNESS ALL POSSIBILITIES to address widening socio-economic gaps in our 21st Century Digital World in a wide range of impact-first initiatives.
 
 ## Podcasts
 ### In The Industry
