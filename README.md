@@ -92,6 +92,7 @@ __Table of Contents__
 * [LeetCode](https://leetcode.com/) - LeetCode is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews.
 * [structy](https://structy.net/) - Structy is a platform designed to maximize your understanding of data structure & algorithms.
 * [AlgoExpert](https://www.algoexpert.io/product) - The ultimate resource to prepare for coding interviews. Everything you need, in one streamlined platform.
+* [Interview Cake](https://www.interviewcake.com/) - Interview Cake teachs you the right way of thinking to break down tricky algorithmic coding interview questions you’ve never seen before
 
 ## Business
 
