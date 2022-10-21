@@ -15,11 +15,16 @@ __Table of Contents__
 
 ## UX/UI
 
+### Apps
 #### [Figma](https://www.figma.com/) - A collaborative UX/UI Design tool
 
 #### [Adobe XD](https://www.adobe.com/products/xd.html) - A Design tool for web and mobile development
 
 #### [Canva](https://www.canva.com/) - Beginner friendly graphic design tool 
+
+### Design Ideas
+* [dribbble](https://dribbble.com/) - Explore the world’s leading design portfolios.
+* [Behance](https://www.behance.net/) - Behance is the world's largest creative network for showcasing and discovering creative work.
 
 ## Frontend
 
