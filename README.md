@@ -77,6 +77,17 @@ __Table of Contents__
 <!-- Frameworks -->
 #### Node.js
 
+## Utitily
+### Images
+* [Unsplash](https://unsplash.com/) - Over 3 million free high-resolution images brought to you by the world’s most generous community of photographers.
+* [picjumbo](https://picjumbo.com/) - Download free stock photos, backgrounds and free high-resolution images for personal and commercial use.
+* [pixabay](https://pixabay.com/) - Stunning free images & royalty free stock.
+
+### Colors
+* [Coolors](https://coolors.co/) - Create the perfect palette or get inspired by thousands of beautiful colors schemes.
+* [collor](http://colllor.com/) - With Colllor it is much easier to generate a consistent web color palette with just a few clicks.
+
+
 ## Data Structures & Algorithms
 * [LeetCode](https://leetcode.com/) - LeetCode is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews.
 * [structy](https://structy.net/) - Structy is a platform designed to maximize your understanding of data structure & algorithms.
@@ -104,6 +115,7 @@ __Table of Contents__
 #### [Women in Tech Caribbean](http://womenintechcaribbean.com)
 #### [FEMStem Bahamas](https://www.femstembahamas.org/)
 #### [BETA](http://wearebeta.co/)
+#### [Bytes Bahamas](https://www.facebook.com/bytes242/) - Our mission is to identify students with an aptitude for computer science, math, engineering and community in small Bahamian communities.
 
 ## Podcasts
 ### In The Industry
@@ -111,7 +123,6 @@ __Table of Contents__
 * [Syntax](https://syntax.fm) - A weekly podcast about just building websites from Dave Rupert and Chris Coyier.
 * [a16z Podcast](https://a16z.simplecast.com/) - The a16z Podcast discusses tech and culture trends, news, and the future – especially as ‘software eats the world’.
 * [Software Engineering Daily](https://softwareengineeringdaily.com/) - Technical interviews about software topics.
-
 ### Developer Stories
 * [CodeNewbie](https://www.codenewbie.org/podcast) - Stories from people on their coding journey.
 
@@ -125,3 +136,4 @@ __Table of Contents__
 #### [GeeksforGeeks](https://practice.geeksforgeeks.org/) - Well explained tutorials, articles, and learn to code
 
 #### [Udemy](https://www.udemy.com/) - Video tutorials by professionals
+#### [GoDaddy](https://www.godaddy.com/hosting/web-hosting) - GoDaddy is the world’s largest services platform for entrepreneurs around the globe.
