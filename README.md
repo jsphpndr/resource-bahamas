@@ -16,11 +16,9 @@ __Table of Contents__
 ## UX/UI
 
 ### Apps
-#### [Figma](https://www.figma.com/) - A collaborative UX/UI Design tool
-
-#### [Adobe XD](https://www.adobe.com/products/xd.html) - A Design tool for web and mobile development
-
-#### [Canva](https://www.canva.com/) - Beginner friendly graphic design tool 
+* [Figma](https://www.figma.com/) - A collaborative UX/UI Design tool
+* [Adobe XD](https://www.adobe.com/products/xd.html) - A Design tool for web and mobile development
+* [Canva](https://www.canva.com/) - Beginner friendly graphic design tool 
 
 ### Design Ideas
 * [dribbble](https://dribbble.com/) - Explore the world’s leading design portfolios.
@@ -120,8 +118,8 @@ __Table of Contents__
 
 ## Podcasts
 ### In The Industry
-* [Shop Talk Show](https://shoptalkshow.com) - A Tasty Treats Podcast for Web Developers.
-* [Syntax](https://syntax.fm) - A weekly podcast about just building websites from Dave Rupert and Chris Coyier.
+* [Shop Talk Show](https://shoptalkshow.com) - A weekly podcast about just building websites from Dave Rupert and Chris Coyier.
+* [Syntax](https://syntax.fm) - A Tasty Treats Podcast for Web Developers.
 * [a16z Podcast](https://a16z.simplecast.com/) - The a16z Podcast discusses tech and culture trends, news, and the future – especially as ‘software eats the world’.
 * [Software Engineering Daily](https://softwareengineeringdaily.com/) - Technical interviews about software topics.
 ### Developer Stories
@@ -131,10 +129,7 @@ __Table of Contents__
 #### [Vercel](https://vercel.com/)
 
 ## Practice Makes Perfect
-
-#### [freeCodeCamp](https://www.freecodecamp.com/) - Learn to code and build projects
-
-#### [GeeksforGeeks](https://practice.geeksforgeeks.org/) - Well explained tutorials, articles, and learn to code
-
-#### [Udemy](https://www.udemy.com/) - Video tutorials by professionals
-#### [GoDaddy](https://www.godaddy.com/hosting/web-hosting) - GoDaddy is the world’s largest services platform for entrepreneurs around the globe.
+* [freeCodeCamp](https://www.freecodecamp.com/) - Learn to code and build projects
+* [GeeksforGeeks](https://practice.geeksforgeeks.org/) - Well explained tutorials, articles, and learn to code
+* [Udemy](https://www.udemy.com/) - Video tutorials by professionals
+* [GoDaddy](https://www.godaddy.com/hosting/web-hosting) - GoDaddy is the world’s largest services platform for entrepreneurs around the globe.
