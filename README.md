@@ -139,3 +139,8 @@ __Table of Contents__
 
 #### [Udemy](https://www.udemy.com/) - Video tutorials by professionals
 #### [GoDaddy](https://www.godaddy.com/hosting/web-hosting) - GoDaddy is the world’s largest services platform for entrepreneurs around the globe.
+
+## VS Code Extensions
+* [Code Time](https://marketplace.visualstudio.com/items?itemName=softwaredotcom.swdc-vscode) - Code Time is an open source plugin for automatic programming metrics and time tracking in Visual Studio Code.
+* [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) - Auto rename paired HTML/XML tag
+* [Discord Presence](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode) - Update your discord status with a rich presence.
